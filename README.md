@@ -25,8 +25,8 @@
     <td><b>After Styling (Final UI)</b></td>
   </tr>
   <tr>
-    <td><img src="assets/images/before-layout.png" width="100%"></td>
-    <td><img src="assets/images/after-layout.png" width="100%"></td>
+    <td><img src="assets/images/before-layout.png.png" width="100%"></td>
+    <td><img src="assets/images/after-layout.png.png" width="100%"></td>
   </tr>
 </table>
 
@@ -38,9 +38,9 @@
     <td><b>Mobile View</b></td>
   </tr>
   <tr>
-    <td><img src="assets/images/final-layout.png" width="100%"></td>
-    <td><img src="assets/images/tablet-view.png" width="100%"></td>
-    <td><img src="assets/images/mobile-view.png" width="100%"></td>
+    <td><img src="assets/images/final-layout.png.png" width="100%"></td>
+    <td><img src="assets/images/tablet-view.png.png" width="100%"></td>
+    <td><img src="assets/images/mobile-view.png.png" width="100%"></td>
   </tr>
 </table>
 
@@ -50,9 +50,10 @@
     <td><b>Code Architecture</b></td>
   </tr>
   <tr>
-    <td><img src="assets/images/code-structure.png" width="100%"></td>
+    <td><img src="assets/images/code-structure.png.png" width="100%"></td>
   </tr>
 </table>
+
 
 ​🚀 Live Demo
 ​Click here to view the live project
